@@ -1,5 +1,8 @@
 # algerian_forest_fires
 
+This notebook applies a neural network to identify whether certain conditions led to a forest fire on a given day. 
+Accuracy as of August 18, 2021: 0.671
+
 Dataset provided by Faroudja ABID et al. , Predicting Forest Fire in Algeria using Data Mining Techniques: Case Study of the Decision Tree Algorithms, International Conference on Advanced Intelligent Systems for Sustainable Development (AI2SD 2019) , 08 - 11 July , 2019, Marrakech, Morocco.
 
 URL: https://archive.ics.uci.edu/ml/datasets/Algerian+Forest+Fires+Dataset++
@@ -10,7 +13,7 @@ Attribute Information:
 Weather data observations
 2. Temp : temperature noon (temperature max) in Celsius degrees: 22 to 42
 3. RH : Relative Humidity in %: 21 to 90
-4. Ws :Wind speed in km/h: 6 to 29
+4. Ws : Wind speed in km/h: 6 to 29
 5. Rain: total day in mm: 0 to 16.8
 FWI Components
 6. Fine Fuel Moisture Code (FFMC) index from the FWI system: 28.6 to 92.5
